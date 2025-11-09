@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.anonymous.chatmobile"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.chatmobile"
+  }
+}
