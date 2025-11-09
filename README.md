@@ -21,7 +21,7 @@ SETUP & INSTALLATION
 
 1️⃣ Clone the project
 ---------------------
-git clone https://github.com/YOUR_USERNAME/chat-app.git
+git clone https://github.com/Sanjyot05/chat-app.git
 cd chat-app
 
 2️⃣ Backend Setup (server/)
