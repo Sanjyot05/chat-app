@@ -33,7 +33,7 @@ Create file: .env
 Inside .env paste:
 
 PORT=4000
-MONGO_URI=mongodb+srv://sanjyotUser:MyPass123@sanjyot.n8nhdgu.mongodb.net/chatApp?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://sanjyotUser:12345678@sanjyot.n8nhdgu.mongodb.net/chatApp?retryWrites=true&w=majority
 JWT_SECRET=supersecretkey
 CLIENT_URL=http://localhost:19006
 
